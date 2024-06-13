@@ -1,0 +1,304 @@
+## Detalhe das imagens de referência do manual "IM-WEB-IQ2-PERFETTO.pdf":
+
+**Fig. 1:**
+
+* Mostra o interruptor de ligar/desligar do secador de cabelo. 
+* O interruptor possui duas posições: 
+    * **O:**  Representa a posição de "desligado" (off).
+    * **I:** Representa a posição de "ligado" (on).
+
+**Fig. 2:**
+
+* Mostra a parte frontal do secador de cabelo, com botões seletores laterais.
+* Do lado esquerdo, há uma coluna com **três luzes indicadoras vermelhas**, que representam a temperatura do ar:
+    * A primeira luz (inferior) indica a temperatura mais baixa.
+    * A segunda luz indica a temperatura média.
+    * A terceira luz (superior) indica a temperatura mais alta.
+* Do lado direito, há uma coluna com **três luzes indicadoras brancas**, que representam a velocidade do fluxo de ar:
+    * A primeira luz (inferior) indica a velocidade mais baixa.
+    * A segunda luz indica a velocidade média.
+    * A terceira luz (superior) indica a velocidade mais alta.
+
+**Fig. 3:**
+
+* Mostra um botão com a função de ajuste da velocidade do fluxo de ar.
+* A parte superior do botão controla a **aumentar a velocidade**.
+* A parte inferior do botão controla a **diminuir a velocidade**.
+
+**Fig. 4:**
+
+* Mostra um botão com a função de ajuste da temperatura do ar.
+* A parte superior do botão controla a **aumentar a temperatura**.
+* A parte inferior do botão controla a **diminuir a temperatura**.
+
+**Fig. 5:**
+
+* Mostra o botão "Golpe de Ar Frio", que serve para gerar um fluxo de ar frio.
+* Ao pressionar e manter o botão, o secador de cabelo emite ar frio.
+* Ao soltar o botão, o secador de cabelo volta a emitir ar quente.
+
+**Fig. 6:**
+
+* Mostra o interruptor de ligar/desligar na posição de "bloqueado" (lock).
+*  Nessa posição, os botões de temperatura e velocidade ficam bloqueados, evitando alterações acidentais.
+
+**Fig. 7:**
+
+* Mostra o botão TURBO e um LED próximo a ele.
+* Ao pressionar o botão TURBO, o LED muda de cor, indicando que a função turbo está ativada.
+* A cor do LED, provavelmente verde, indica que o secador de cabelo está em modo turbo, com o motor funcionando em alta velocidade.
+
+**Fig. 8:**
+
+* Mostra a luz indicadora de velocidade intermediária piscando.
+* Essa luz piscante é um aviso do eSystem-C, que indica que o secador de cabelo detectou condições inadequadas de uso.
+
+**Fig. 9:**
+
+* Mostra o secador de cabelo ligado, sem nenhum acessório (bicos ou difusor) conectado.
+*  A imagem indica que o secador de cabelo deve ser ligado sem os acessórios para iniciar a função de autolimpeza.
+
+**Fig. 10:**
+
+* Mostra o botão de seleção de velocidade ou autolimpeza.
+*  Ao pressionar e manter esse botão por 5 segundos, o secador de cabelo inicia a função de autolimpeza.
+
+**Fig. 11:**
+
+* Mostra o processo de remoção dos filtros metálico e de tecido do secador de cabelo.
+* É necessário puxar os filtros suavemente para trás para removê-los completamente.
+
+**Fig. 12:**
+
+* Mostra o processo de limpeza dos filtros do secador de cabelo.
+* Os filtros devem ser lavados com água morna e sabão e esfregados com um cepillo para remover a sujeira.
+
+**Fig. 13:**
+
+* Mostra os filtros metálico e de tecido já limpos e posicionados corretamente na saída de ar do secador de cabelo.
+* As setas indicadas nas figuras devem estar perfeitamente alinhadas.
+
+**Fig. 14:**
+
+* Mostra a SMART PAD, uma base que serve para desligar o secador de cabelo automaticamente.
+* Ao colocar o secador na SMART PAD, o sensor do secador detecta a presença da base e interrompe o funcionamento.
+
+**Fig. 15:**
+
+* Mostra a SMART PAD com o secador de cabelo sobre ela. 
+*  As luzes indicadoras de temperatura e velocidade no cabo do secador estão piscando, indicando que o secador está em stand-by, pronto para ser utilizado.
+
+**Fig. 16:**
+
+* Mostra um bocal encaixado na saída de ar do secador de cabelo.
+* O bocal está firmemente bloqueado na posição correta, permitindo a rotação de 360° sem inconvenientes.
+
+**Fig. 17:**
+
+* Mostra um bocal com a área "COOL ZONE" indicada.
+*  Essa área do bocal se mantém mais fria do que outras, permitindo um manuseio mais seguro.
+
+**Fig. 18:**
+
+* Mostra o bocal em estrela, um acessório que distribui o ar de forma uniforme, ideal para cabelos finos e danificados.
+
+**Fig. 19:**
+
+* Mostra o difusor, um acessório que concentra o fluxo de ar para melhor modelar os cachos.
+
+**Fig. 20:**
+
+* Mostra a correta posição do bocal em estrela e do difusor na saída de ar do secador de cabelo.
+*  Os acessórios devem encaixar na base interna da saída de ar, sendo necessário pressioná-los suavemente.
+
+**Fig. 21:**
+
+* Mostra o anel para pendurar o secador de cabelo, com a palavra "iQ" formada.
+*  Também mostra o cepillo e o pano para limpeza, que são acessórios que acompanham o secador.
+
+**Fig. 22:**
+
+* Mostra um esquema que representa o efeito Venturi, que é utilizado pelo secador de cabelo iQ2 para aumentar a potência do fluxo de ar.
+
+
+
+Transcrição do documento "IM-WEB-IQ2-PERFETTO.pdf" em português:
+
+O símbolo no produto ou na embalagem indica que este não deve ser considerado como um lixo doméstico normal, porém, depois de ter decidido eliminar o aparelho, o mesmo deve ser entregue no ponto de recolha apropriado para a reciclagem de aparelhos elétricos e eletrónicos. Ao providenciar a eliminação deste produto de maneira apropriada, contribui-se para evitar consequências negativas potenciais para o ambiente e para a saúde, que poderia decorrer dum tratamento inadequado do produto. Para informações mais pormenorizadas sobre a reciclagem deste produto, entre em contacto com a repartição municipal, o serviço local de eliminação de resíduos ou a loja onde o produto foi comprado.
+
+Obrigado por ter adquirido um produto GAMA by GAMA.PROFESSIONAL. Temos a certeza que saberá apreciar a atenção com a qual este produto foi projetado e realizado. A pesquisa GAMA by GAMA.PROFESSIONAL prossegue desde sempre a conjugar inovação e tecnologia oferecer produtos de altíssima qualidade, criados com as mais modernas técnicas e os melhores materiais. Isso garante um desempenho ideal, pensado para os utilizadores mais exigentes que desejam obter um resultado excecional tanto no salão profissional quanto diretamente na sua própria casa. Antes do uso, leia atentamente as instruções e guardá-las.
+
+Verifique se a voltagem da fonte de alimentação corresponde à voltagem do dispositivo. Qualquer erro na ligação pode causar danos irreparáveis, sem cobertura de garantia.
+
+Desconecte o aparelho da tomada de corrente quando estiver desligado, uma vez que a proximidade da água pode representar um perigo: preste atenção especial quando o utilizar na casa de banho. Como medida de proteção adicional, recomenda-se de instalar no circuito elétrico que alimenta a casa de banho um interruptor disjuntor (RCD, com a sua escrita original no idioma inglês) com um limite de interrupção que não ultrapassa os 30 mA. Consulte o seu eletricista.
+
+Os acessórios do secador de cabelo podem ficar muito quentes durante a utilização. Evite o contacto com as partes quentes.
+
+Desligue o secador de cabelo quando não estiver a ser utilizado, mesmo por curtos períodos.
+
+Não mergulhe ou molhe o dispositivo.
+
+ATENÇÃO: Não utilize este aparelho próximo de banheiras ou de outros recipientes que contenham água.
+
+Para limpar o aparelho, desligue-o da tomada de corrente e deixe-o arrefecer. Para a limpeza não utilize produtos agressivos que contenham fenilfenol.
+
+Assegure-se de que as entradas e saídas de ar não estejam bloqueadas.
+
+Segure o secador de cabelo pelo cabo para o utilizar
+
+Não segure ou manuseie o aparelho pela pega. Evite enrolar o cabo ao redor do aparelho, bem como dobrá-lo ou submetê-lo a torções que poderiam prejudicar o seu funcionamento adequado e, portanto, danificar o secador de cabelo. O incumprimento destas advertências e indicações poderia causar um curto-circuito e danos irreparáveis ao secador de cabelo, ademais de colocar em risco a segurança do utilizador.
+
+Não utilize extensões.
+
+Não limpe o secador de cabelo com produtos agressivos.
+
+Não utilize o secador de cabelo a temperaturas inferiores a 0 °C ou superiores a 35 °C.
+
+Este produto não deve ser utilizado por pessoas com capacidade física (incluindo crianças), motora ou mental reduzida, ou com conhecimento limitado do produto, a não ser que tenham sido instruídas quanto à utilização do próprio produto ou sob a supervisão duma pessoa responsável por sua segurança. As crianças devem sempre ser supervisionadas para assegurar que não brinquem com os produtos.
+15. Em caso de utilização indevida ou inobservância das instruções, o fabricante não assume nenhuma responsabilidade e a garantia não será aplicável. Segundo a política de aperfeiçoamento constante dos nossos produtos, reservamo-nos o direito de alterar o padrão do produto. Lamentamos se não conseguirmos comunicar-lhe em tempo oportuno.
+16. Este é um aparelho adequado para uma utilização segura até 2000mts (NMM).
+17. Quando o aparelho está ligado à fonte de alimentação, nunca o deixe sem vigilância.
+18. Se o cabo de alimentação apresentar partes deterioradas deverá ser substituído somente por pessoal especializado. Não utilize dispositivos e/ou acessórios modificados, ou que não foram homologados pelo fabricante.
+
+Este aparelho, para a sua segurança, foi projetado com um isolamento duplo.
+
+#####  *Esta marca só é válida para produtos distribuídos na EUROPA.*
+
+Controlar as imagens de referência no final do manual. 
+
+**INSTRUÇÕES DE USO**
+
+1. Certifique-se de que as suas mãos estão completamente secas e que o interruptor está na posição de desligado: O / I antes de ligar o aparelho à rede elétrica. Ligando-o, todos os indicadores piscarão como uma mensagem de boas-vindas.
+2. Para o ligar, mova o interruptor de ligar/desligar de O para I. (Fig.1)
+3. Ajuste o fluxo de ar e a temperatura desejada. Ao ser ligado pela primeira vez, o secador de cabelos é configurado com o fluxo de ar e temperatura definidos para um mínimo, correspondendo ao primeiro indicador luminoso a partir da parte inferior ao lado dos botões laterais. (Fig.2)
+
+**VELOCIDADE DO FLUXO DE AR**
+
+O secador de cabelo está equipado com um botão de regulação do fluxo de ar. Premindo-o na parte superior, o fluxo de ar aumenta conforme indicado pelos indicadores luminosos brancos. Ao invés, para diminuir o fluxo, prima a parte inferior do botão de regulação. (Fig.3)
+
+**SELETOR DE TEMPERATURA**
+
+O secador de cabelo está equipado com 4 níveis de temperatura que podem ser regulados ao premir o botão dedicado. Ao premir a parte superior do botão, a temperatura aumenta conforme indicado pelos 3 indicadores luminosos vermelhos. Ao invés, para diminuir a temperatura, prima a parte inferior do botão. (Fig.4)
+
+**GOLPE DE AIRE FRIO**
+
+O botão "Golpe de Ar Frio" poderá ser utilizado durante o secado dos cabelos para favorecer a tentação da mise em plis. Para ativar esta função, basta premir e manter o botão Golpe de ar frio. Para a desactivar, libertar o botão. (Fig.5)
+
+**FUNÇÃO DE BLOQUEIO**
+
+Após ter ajustado a velocidade do fluxo de ar e o nível de temperatura desejados, os botões de seleção podem ser bloqueados para evitar modificações acidentais durante a utilização. Para bloquear os botões de seleção da velocidade do ar e da temperatura, coloque o interruptor ligar/desligar O / I na posição de bloqueio   . (Fig.6) Durante o bloqueio dos seletores de velocidade de ar e temperatura, o botão/função Golpe de ar frio pode apesar de tudo ser utilizado.
+
+**FUNÇÃO TURBO**
+
+O secador de cabelo está equipado com a função TURBO, que aumenta o fluxo de ar, levando o motor a uma velocidade de 120.000 rpm em 30 segundos. Para ativar esta função, ajuste a velocidade máxima e mantenha o botão TURBO premido durante alguns segundos. A função turbo entra em ação quando o LED fica verde. Uma vez passado o tempo de ativação, o LED retoma sua cor original. Para ativá-lo novamente, repita o procedimento. (Fig.7) Esta função não pode ser ativada se o secador de cabelo estiver bloqueado.
+
+**FUNÇÃO DE MEMÓRIA**
+
+O secador de cabelo tem uma função de memória que registra as preferências de emprego do utilizador. Quando o produto se apaga, os últimos ajustes de velocidade do ar e de temperatura são registados para que o produto conserve em memória os últimos ajustes, quando ele for ligado novamente. Se o secador de cabelo não for ligado à corrente elétrica durante um período prolongado, ele retorna aos seus parâmetros de fábrica.
+
+**eSystem-C: O que é?**
+
+eSystem-C é uma nova tecnologia que permite ao iQ Perfetto detectar condições de utilização que não são adequadas. Assim, o trabalho não sofre nenhuma interrupção e é garantida uma longa vida útil para o secador de cabelo.
+
+**Quando ele é ativado?**
+
+Quando os indicadores de temperatura se apagam e o indicador de velocidade intermediária começa a piscar. (Fig.8)
+
+**Por que ele é ativado?**
+
+Devido a uma série de fatores, como, por exemplo, obstruções contínuas na saída de ar do secador de cabelo ou filtros sujos. A limpeza dos filtros é fundamental para: prolongar a vida útil do secador de cabelo, garantir o melhor desempenho, evitar o uso de temperaturas excessivas ou de depositar sujidade nos cabelos do utilizador.
+
+**O que fazer quando ele é ativado?**
+
+Assim que o eSystem-C for ativado, substitua imediatamente o filtro de tecido por um filtro limpo e cuide para eliminar a sujidade do filtro metálico externo com a ajuda dos acessórios incluídos no kit de manutenção. Se, ao fim do procedimento descrito até aqui, o aviso eSystem-C não for desativado, recomenda-se consultar o manual de instruções para verificar se o secador de cabelo e os filtros foram corretamente limpos.
+
+**Bloqueio do secador de cabelo**
+
+Para evitar danos irreparáveis ao secador de cabelo e proteger os cabelos do utilizador, se o aviso eSystem-C persistir durante 30 segundos seguidos, o secador de cabelo se bloqueará. Para desbloqueá-lo, substitua o filtro de tecido e desconecte o secador de cabelo da corrente elétrica por 10 segundos.
+
+**LIMPEZA E MANUTENÇÃO**
+
+**FUNÇÃO DE LIMPEZA AUTOMÁTICA**
+
+Esta fase de autolimpeza deve ser realizada após cada utilização do secador de cabelo.
+
+1. Primeiro, retire quaisquer acessórios ligados ao secador de cabelo (como bicos ou difusor). Ligue o secador movendo o interruptor ligar/desligar de O para I e desligue-o novamente. Se o secador de cabelo não tiver sido utilizado durante um longo período, deve ser ligado ao mover o interruptor ligar/desligar de O para I (Fig. 9) e deixá-lo ligado durante alguns segundos.
+
+**ADVERTÊNCIA: NÃO LIGUE O SECADOR DE CABELO SEM OS FILTROS MONTADOS.**
+
+2. Depois, desligue o secador de cabelo, prima imediatamente o botão de seleção de velocidade ou de limpeza automática na parte inferior e mantenha-o premido durante 5 segundos. (Fig. 10)
+
+O ciclo de limpeza automática deve ter a seguinte sequência:
+
+* Inicialmente, o fluxo de ar soprará à velocidade máxima durante 3 segundos, para evitar a permanência de qualquer resíduo de cabelo ou pó, e depois para.
+* Imediatamente a seguir, o secador começará em modo automático a soprar ar na direção oposta, para a parte de trás do secador de cabelo durante 10 segundos para remover toda a sujidade acumulada nos filtros. Após 10 segundos o motor irá parar.
+* No final da sequência, se desejar realizar um novo ciclo de limpeza automática, deverá esperar 30 segundos.
+
+Durante o procedimento, certifique-se de manter a saída e a entrada de ar livres de obstruções e longe de qualquer superfície. No final da sequência de AUTOLIMPEZA, o procedimento está completo e o secador de cabelo pode ser utilizado normalmente. Para interromper o ciclo de limpeza automática, prima o botão de ativação e o procedimento irá parar automaticamente. Quando um ciclo de limpeza automática é cancelado, não é completado e, por isso, o secador de cabelo não o considera válido. Para funcionar adequadamente, o secador de cabelo deve executar um ciclo completo de autolimpeza sem interrupção.
+
+**NOTA:** Se o LED piscar e o secador de cabelo se desligar, o próximo arranque demorará 5 a 10 segundos.
+
+**PROCESSO CORRETO DE LIMPEZA MANUAL DOS FILTROS**
+
+1. Com o secador desligado e sem alimentação elétrica, remova o filtro metálico MICROPERFURADO e o filtro de tecido puxando-o suavemente para trás para o remover completamente. (Fig.11)
+
+2. Utilize os acessórios de limpeza incluídos no Care Kit para remover a acumulação de pó e partículas dos filtros com o fim de remover a sujidade fortemente incrustada. Lave os filtros, mergulhando-os num recipiente com água morna e sabão durante 20 minutos. Em seguida, esfregue interna e externamente para remover a sujidade. Depois, enxague os filtros sob a torneira da água: certifique-se de que a água flui sem acumular-se. Se a água fluir através dos filtros, os filtros foram limpos corretamente. Se a sujidade persistir, repita a operação e reduza o tempo entre as lavagens manuais, estes tempos variam em função da sujidade no ambiente de uso. (Fig.12)
+
+**ATENÇÃO:** CERTIFIQUE-SE DE QUE OS FILTROS ESTÃO COMPLETAMENTE SECOS E LIVRES DE HUMIDADE ANTES DE OS INSERIR NO SECADOR DE CABELO. LIMPE-OS COM FREQUÊNCIA.
+
+3. Volte a posicionar os filtros. Comece com o filtro de tecido (PMF Tech) e depois com o filtro metálico microperfurado. Atenção: em ambos os casos, é necessário colocá-los sobre as guias de encaixe e deslizá-los suavemente sem exercer qualquer pressão. Se os filtros forem posicionados corretamente, a força do íman no interior do filtro metálico microperfurado o fará deslizar e posicionar-se adequadamente. Rode-o até as setas (Fig.13) estarem perfeitamente alinhadas.
+
+Para uma manutenção e limpeza adequada do secador de cabelo, recomenda-se realizar o ciclo de autolimpeza após cada utilização, e uma limpeza profunda dos filtros no final de cada dia para assegurar uma durabilidade e desempenho ideais do secador de cabelo.
+
+**ATENÇÃO, a acumulação de sujidade resultante da limpeza inadequada do filtro pode causar danos ao motor e afetar o desempenho do secador de cabelos**
+
+**RECOMENDAÇÕES DE USO PARA O STYLING**
+
+O iQ2 possui um fluxo excecional de ar e pressão; portanto, recomendamos firmemente uma configuração de secagem exclusiva durante o penteado para garantir a proteção do cabelo e otimizar o desempenho do secador de cabelo. A configuração de secagem recomendada para todos os tipos de cabelo é o 2º nível de temperatura, enquanto sugerimos o 1º nível de temperatura para cabelos finos.
+
+**RECONHECIMENTO DE ERROS / AUTODIAGNÓSTICO**
+
+O secador de cabelo está equipado com diversos sensores que monitorizam constantemente os parâmetros de uso. Em face a qualquer condição de uso extremo ou fora do comum, o secador interrompe o seu funcionamento ou impede que seja ativado, de modo a proteger tanto o utilizador quanto o produto. Qualquer anomalia detetada pelo secador é indicada por um código luminoso intermitente na pega. Uma vez que algumas anomalias são temporárias (por exemplo, uso extremo do secador a gerar excesso de temperatura), deve-se proceder da seguinte forma:
+
+1. coloque o interruptor na posição desligado O.
+1.1. Certifique-se de que os filtros estão limpos. Se não for este o caso, realize a manutenção adequada antes de ligar novamente.
+2. desligue o aparelho da tomada de corrente.
+3. após alguns minutos, volte a conectar o aparelho na tomada de corrente e ligue-o.
+
+Se a avaria/anormalidade for temporária, o secador de cabelo funcionará normalmente. Se, ao invés, a falha ocorrer novamente, contacte o departamento de assistência do ponto de venda ou, no caso de compra na loja online do fabricante GA.MA, o departamento de assistência ao cliente da empresa.
+
+**NOTA:** Como o IQ é equipado com um sistema eletrónico sofisticado e sensível, uma alteração na tensão elétrica pode causar um sinal de erro e, por conseguinte, o desligamento do aparelho. Esse fenómeno é funcional e representa um mecanismo de autoproteção.
+
+**ACESSÓRIOS**
+
+**SMART PAD COM SENSOR STANDBY**
+
+O secador de cabelo está equipado com um sensor que permite suspender automaticamente o seu funcionamento colocando-o no SMART PAD. (Fig.14) Levantando-o e afastando-o dele, o secador volta ao seu funcionamento normal. Esta nova função permite uma gestão eficiente dos períodos de utilização. Para que o secador de cabelo pare automaticamente, deve estar a uma distância próxima do SMART PAD, iniciará um jogo de luzes no cabo do secador. (Fig.15) Evite colocar objectos nas proximidades do sensor do Smart Pad, que podem cair ao utilizar o secador de cabelo.
+
+**NOTA:** Ao fim de 5 minutos em que o secador de cabelo está na fase de paragem automática ou de repouso, desliga-se automaticamente. Para o reativar, desligue e volte a ligar.
+
+**BOCAIS**
+
+**INSTRUÇÕES DE USO DOS ACESSÓRIOS: BOCAL ESTREITO, ULTRA-ESTREITO COOL ZONE**
+
+Os acessórios iQ vêm com um acessório exclusivo que se encaixa na saída de ar do secador de cabelo (patenteado por Venturi). Para utilizar os acessórios, deve-se posicioná-los e premir suavemente até ouvir o clique de segurança; isto assegura que o bocal está firmemente bloqueado e pode rodar 360° sem qualquer inconveniente. (Fig. 16) Para desencaixá-lo, segure o bocal nas áreas marcadas como “COOL ZONE” e puxe suavemente. O sistema “COOL ZONE” é um ponto de encaixe/fixação seguro e permite que os lados do bocal sejam arrefecidos, reduzindo consideravelmente a temperatura. (Fig.17)
+
+**BOCAL EM ESTRELA:** Este novo acessório gera um fluxo de ar uniforme, ideal para cabelos finos ou danificados. Graças ao efeito Venturi, aumenta o caudal de ar e distribui-o para o exterior. O seu desenho evita que o fluxo de ar estrague o cabelo. (Fig. 18)
+
+**DIFUSOR:** Este acessório, pela sua profundidade e desenho, permite secar e modelar o cabelo com madeixas. (Fig. 19).
+
+**INSTRUÇÕES PARA A INSERÇÃO DO BOCAL EM ESTRELA E DIFUSOR:** A forma exterior do bocal e do difusor é idêntica à forma da base interior da saída de ar do secador de cabelo. Assim sendo, será necessário combinar perfeitamente as duas partes. Carregue suavemente para dentro sem exercer demasiada pressão, de modo a deixar um pequeno espaço entre o anel metálico frontal e o acessório. (Fig. 20)
+
+**ANEL PARA PENDURAR**
+
+Coloque o anel à volta da bucha do cabo do secador de cabelo (esta está localizada na parte inferior da pega) e feche-o inserindo o "i" na ranhura para assegurar a fixação do anel. A palavra "iQ" será formada no acessório. (Fig. 21)
+
+**ESCOVA E PANO DE LIMPEZA**
+
+Utilize estes acessórios para limpar o secador de cabelo. (Fig. 21)
+
+**EFEITO VENTURI**
+
+A forma do iQ permite facilitar o efeito Venturi, ou difundir um fluxo de ar mais elevado devido ao efeito de aspiração sem exigir e, portanto, consumir energia adicional. (Fig. 22)
+
+**Na website www.gamaprofessional.com poderá encontrar os manuais de produto e as advertências.** 
