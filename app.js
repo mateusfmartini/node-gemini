@@ -4,6 +4,8 @@ import { dirname, join } from 'path';
 import { executaChat } from './chat.js';
 import { inicializaChat } from './inicializaChat.js';
 
+
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
@@ -36,5 +38,6 @@ app.post('/chat', async (req, res) => {
 });
 
 app.listen(port, () => {
+
   console.log(`Server listening on port ${port}`);
 });
